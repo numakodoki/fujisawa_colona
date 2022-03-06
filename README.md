@@ -2,10 +2,10 @@
 
 sorry for my unkindness.
 
-# Setting on local
+## setting on local
 wsl setting
 miniconda install
 pip install pandas
 
-# command
+## command
 bash fujisawa.sh
