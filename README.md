@@ -8,3 +8,6 @@ pip install pandas
 
 ## command
 bash fujisawa.sh
+
+## output
+data/<date>_pr_1.csv
